@@ -22,3 +22,4 @@ print("Average :",Avg)
 #     print(True)
 # else:
 #      print(False)
+
